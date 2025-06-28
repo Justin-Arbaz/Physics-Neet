@@ -312,6 +312,16 @@ section {
     margin: 0;
 }
 
+@media screen and (max-width: 576px) {
+    .about-image img {
+        height: 400px;
+    }
+
+    .stat-number {
+        font-size: 2rem;
+    }
+    
+}
 /* Gallery */
 
 .carousel-control-prev-icon,
