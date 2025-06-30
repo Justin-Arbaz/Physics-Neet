@@ -373,6 +373,9 @@ section {
     .carousel-item img {
         height: 250px;
     }
+    .carousel {
+    padding: 0px;
+}
 }
 
 .gallery-grid {
