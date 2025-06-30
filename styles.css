@@ -422,6 +422,15 @@ section {
     .carousel {
         padding: 0px;
     }
+
+    
+.carousel-btn.prev {
+    left: 10px;
+}
+
+.carousel-btn.next {
+    right: 10px;
+}
 }
 
 .gallery-grid {
