@@ -324,6 +324,12 @@ section {
 }
 /* Gallery */
 
+.carousel {
+    background: #eaeef2f7;
+    position: relative;
+    padding: 0px 20px;
+}
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     background-color: var(--primary-color);
@@ -603,4 +609,17 @@ section {
         animation-iteration-count: 1 !important;
         transition-duration: 0.01ms !important;
     }
+}
+
+
+/* Addmission Page */
+.addmission-form {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-light);
+}
+
+.addmission{
+    background: #f7f7f7;
 }
